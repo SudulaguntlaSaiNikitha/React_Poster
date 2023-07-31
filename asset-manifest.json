@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SudulaguntlaSaiNikitha/React_Poster.git/static/css/main.e6c13ad2.css",
+    "main.js": "/SudulaguntlaSaiNikitha/React_Poster.git/static/js/main.489d9354.js",
+    "static/js/787.c603239d.chunk.js": "/SudulaguntlaSaiNikitha/React_Poster.git/static/js/787.c603239d.chunk.js",
+    "static/media/bad1.png": "/SudulaguntlaSaiNikitha/React_Poster.git/static/media/bad1.73fdda230c893f9905bd.png",
+    "static/media/bad4.png": "/SudulaguntlaSaiNikitha/React_Poster.git/static/media/bad4.e9c4c2eea7eb4899c024.png",
+    "static/media/bad3.png": "/SudulaguntlaSaiNikitha/React_Poster.git/static/media/bad3.bc8669d07562a997e188.png",
+    "static/media/bad2.png": "/SudulaguntlaSaiNikitha/React_Poster.git/static/media/bad2.eea4b672c67b03a29482.png",
+    "static/media/ana.jpeg": "/SudulaguntlaSaiNikitha/React_Poster.git/static/media/ana.7cbeb088d9683ba18aad.jpeg",
+    "index.html": "/SudulaguntlaSaiNikitha/React_Poster.git/index.html",
+    "main.e6c13ad2.css.map": "/SudulaguntlaSaiNikitha/React_Poster.git/static/css/main.e6c13ad2.css.map",
+    "main.489d9354.js.map": "/SudulaguntlaSaiNikitha/React_Poster.git/static/js/main.489d9354.js.map",
+    "787.c603239d.chunk.js.map": "/SudulaguntlaSaiNikitha/React_Poster.git/static/js/787.c603239d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.489d9354.js"
+  ]
+}
